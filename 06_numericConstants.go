@@ -17,5 +17,4 @@ func main() {
 	fmt.Println(needFloat(Small))
 	fmt.Println(needFloat(Big))
 	// fmt.Println(needInt(Big)) will overflow
-
 }
